@@ -8,7 +8,7 @@
 
 </div>
 
-🚀 interning ata sf-based ai startup  
+🚀 interning at a sf-based ai startup  
 👨‍🔬 researching steering vectors in diffusion transformer (DiT) models  
 🎓 studying computer science at the national university of singapore (nus)<br><br>
 
