@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 manoj narender
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojnarender) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojnarender@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://manojnarender.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=About.me&logoColor=white)](https://manojnarender.vercel.app/)
 🚀 interning ata sf-based ai startup<br>👨‍🔬 researching steering vectors in diffusion transformer (DiT) models<br>🎓 studying computer science at the national university of singapore (nus)<br><br>
 
 
